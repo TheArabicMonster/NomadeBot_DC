@@ -47,3 +47,19 @@ TOKEN=your_discord_token
 ```bash
 node index.js
 ```
+
+---
+
+## 🔮 Coming Soon
+
+- Inventory system linked to Twitch  
+- Item interaction commands  
+- Utility and fun commands  
+- Database integration  
+- Improved logging and error handling
+
+---
+
+## 👤 Author
+
+Developed by [TheArabicMonster](https://github.com/TheArabicMonster)
