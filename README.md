@@ -34,3 +34,20 @@ Il permettra à terme une expérience connectée entre Twitch et Discord.
 ```bash
 git clone https://github.com/TheArabicMonster/NomadeBot_DC.git
 cd NomadeBot_DC
+```
+
+---
+
+## 🔮 À venir
+
+- Système d’inventaire connecté à Twitch  
+- Commandes d’interaction avec les objets  
+- Commandes utilitaires et amusantes  
+- Intégration d'une base de données  
+- Amélioration des logs et de la gestion des erreurs
+
+---
+
+## 👤 Auteur
+
+Développé par [TheArabicMonster](https://github.com/TheArabicMonster)
