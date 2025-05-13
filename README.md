@@ -35,6 +35,18 @@ Il permettra à terme une expérience connectée entre Twitch et Discord.
 git clone https://github.com/TheArabicMonster/NomadeBot_DC.git
 cd NomadeBot_DC
 ```
+2. Installer les dépendances
+```bash
+npm install
+```
+3. Crée un fichier `.env` avec le token discord de ton bot 
+```ini
+TOKEN=ton_token_discord
+```
+4. Lancer le bot:
+```bash
+node index.js
+```
 
 ---
 
